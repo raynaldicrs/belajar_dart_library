@@ -1,4 +1,4 @@
 String sayHello(String name)
 {
-  return 'hello $name, nice to see you!';
+  return 'hello $name, beristirahatlah yang cukup';
 }
